@@ -187,6 +187,7 @@ body {
     margin: 0 auto;
     max-width: 940px;
     padding: 0 35px;
+    justify-content: center;
 }
 img {
     max-width: 100%;
@@ -313,7 +314,7 @@ h1 {
     font-size: 30px;
     line-height: 40px;
     text-align: center;
-    margin: 0 0 55px;
+    margin: 0 0 35px;
 }
 h2 {
     font-weight: 500px;
@@ -325,6 +326,12 @@ h3 {
     font-size: 18px;
     line-height: 24px;
     text-transform: uppercase;
+}
+h4 {
+    font-size: 20px;
+    line-height: 20px;
+    text-align: center;
+    margin: 0 0 35px;
 }
 .social li a,
 .ico-bulb,
